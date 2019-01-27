@@ -1,0 +1,18 @@
+.feed {
+    color: #ED6E59;
+    text-transform: uppercase;
+}
+
+.metadata .feed {
+    font-weight: 800;
+    padding-bottom: 5px;
+}
+
+.metadata .author {
+    color:#D3D3D3;
+    font-style: italic;
+}
+
+.metadata .date {
+    color:#D3D3D3;
+}
